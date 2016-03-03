@@ -1,0 +1,14 @@
+﻿Profiling of 'Owner_pointers' started.
+Profiling of 'Owner_pointers' stopped.
+Symbols loaded for Owner_pointers.exe
+Profiling of 'Owner_pointers' started.
+Owner_pointers has exited.
+Profiling of 'Owner_pointers' stopped.
+Symbols loaded for Owner_pointers.exe
+Profiling of 'Owner_pointers' started.
+Profiling of 'Owner_pointers' stopped.
+Symbols loaded for Owner_pointers.exe
+Profiling of 'Owner_pointers' started.
+Profiling of 'Owner_pointers' started.
+Profiling of 'Owner_pointers' stopped.
+Symbols loaded for Owner_pointers.exe
